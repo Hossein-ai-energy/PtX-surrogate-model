@@ -1,24 +1,28 @@
-# PTX Surrogate Model
+# PTX Surrogate Modeling
 
 AI-based surrogate modeling for Power-to-X (PtX) energy systems.
 
-## Overview
+## Project Overview
 
-This repository focuses on:
+This project explores machine-learning surrogate models derived from EES simulations for advanced PtX energy systems.
 
-- Surrogate modeling of PtX energy systems
-- Translating EES simulation outputs into ML-ready datasets
-- SHAP-based sensitivity analysis
-- Uncertainty quantification and model interpretation
+Main topics:
 
-## Methods
+- Energy system modeling
+- AI surrogate models
+- SHAP sensitivity analysis
+- Uncertainty quantification
+- Explainable AI for energy applications
 
-- Machine Learning
-- SHAP Explainability
-- Sensitivity Analysis
-- Uncertainty Analysis
-- Energy System Modeling
+## Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- SHAP
+- Matplotlib
 
 ## Status
 
-Work in progress.
+Active research / Work in progress.
